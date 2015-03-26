@@ -1,14 +1,10 @@
 <?php
 ###Connect to database###
 $dbhost = "localhost";
-$dbname = "collab_teamup";
-$dbuser = "npb12";
-$dbpass = "tarheel5";
+$dbname = "your_db_name";
+$dbuser = "your_db_username";
+$dbpass = "your_db_password";
 
-#
-# On Server: username/dbname: socialnetdatab
-# Password: Social-net-db1 
-#
 
 $conc= mysql_connect ($dbhost, $dbuser, $dbpass) or die("Unable to connect to MySQL");
 mysql_select_db($dbname) or die("Unable to connect to $dbname");
