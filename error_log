@@ -1,0 +1,37 @@
+[02-Nov-2014 03:47:17 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 03:47:19 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 03:47:21 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 14:44:45 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 14:44:59 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 15:00:45 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 15:31:05 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 15:43:46 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 16:35:42 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 16:38:20 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'npb12_'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 20:58:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'npb12'@'localhost' (using password: NO) in /home1/npb12/public_html/projectsu.php on line 12
+[02-Nov-2014 20:58:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/npb12/public_html/projectsu.php on line 12
+[02-Nov-2014 21:01:00 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'npb12'@'localhost' (using password: NO) in /home1/npb12/public_html/projectsu.php on line 12
+[02-Nov-2014 21:01:00 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/npb12/public_html/projectsu.php on line 12
+[02-Nov-2014 21:03:49 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home1/npb12/public_html/config.php on line 12
+[02-Nov-2014 21:05:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$conc' (T_VARIABLE) in /home1/npb12/public_html/config.php on line 12
+[02-Nov-2014 21:08:44 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'npb12_scrumbld'@'localhost' to database 'npb12_collab' in /home1/npb12/public_html/config.php on line 11
+[02-Nov-2014 21:12:13 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'npb12'@'localhost' (using password: NO) in /home1/npb12/public_html/projectsu.php on line 12
+[02-Nov-2014 21:12:13 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/npb12/public_html/projectsu.php on line 12
+[02-Nov-2014 21:38:57 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'npb12_scrumbld'@'localhost' (using password: YES) in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 21:38:57 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 21:40:54 America/Chicago] PHP Fatal error:  Class 'mysqli_connect' not found in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 21:54:01 America/Chicago] PHP Fatal error:  Class 'mysqli_connect' not found in /home1/npb12/public_html/config.php on line 13
+[02-Nov-2014 22:48:08 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:48:08 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:48:08 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:48:09 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/home.html.php on line 5
+[02-Nov-2014 22:48:09 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/home.html.php on line 5
+[02-Nov-2014 22:48:09 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/npb12/public_html/home.html.php on line 5
+[02-Nov-2014 22:49:10 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:49:10 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:49:10 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:49:11 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:49:11 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home1/npb12/public_html/index.php on line 7
+[02-Nov-2014 22:49:11 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/npb12/public_html/index.php on line 7
+[03-Nov-2014 21:46:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/npb12/public_html/header.php:29) in /home1/npb12/public_html/authen.php on line 3
+[03-Nov-2014 21:46:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/npb12/public_html/header.php:29) in /home1/npb12/public_html/authen.php on line 8
